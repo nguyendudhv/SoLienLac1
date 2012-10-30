@@ -1,0 +1,193 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:13px;
+	color:#666666;
+	background-color:#abcabc;
+	background-image:url(Images/dang-nhap.jpg);
+	background-repeat:no-repeat;
+}
+#wrap{
+	width:1000px;
+	margin:auto;
+}
+img{
+	border:none;
+}
+a{
+	text-decoration:none;
+}
+#top_main{
+	margin:100px auto auto auto;
+	width:1000px;
+	height:7px;
+}
+#top_left{
+	float:left;
+	height:7px;
+	width:7px;
+	background-image:url(Images/top_left.png);
+	background-repeat:no-repeat;
+}
+#top_center{
+	height:7px;
+	float:left;
+	width:986px;
+	background-color:#ffffff;
+}
+#top_right{
+	float:right;
+	height:7px;
+	width:7px;
+	background-image:url(Images/top_right.png);
+	background-repeat:no-repeat;
+}
+#bot_main{
+	height:7px;
+	width:1000px;
+	margin:auto;
+	margin-bottom:0px;
+}
+#bot_left{
+	float:left;
+	height:7px;
+	width:7px;
+	background-image:url(Images/bot_left.png);
+	background-repeat:no-repeat;
+}
+#bot_center{
+	height:7px;
+	float:left;
+	width:986px;
+	background-color:#ffffff;
+}
+#bot_right{
+	float:right;
+	height:7px;
+	width:7px;
+	background-image:url(Images/bot_right.png);
+	background-repeat:no-repeat;
+}
+#main{
+	margin:0 auto;
+	width:1000px;
+	background-color:#ffffff;
+}
+#left{
+	float:left;
+	width:660px;
+	margin-left:20px;
+	margin-bottom:30px;
+	background-image:url(Images/pic.jpg);
+	background-repeat:no-repeat;
+	background-position:left bottom;
+}
+#intro{
+	width:443px;
+	height:309px;
+	float:right;
+	background-image:url(Images/note.png);
+	background-repeat:no-repeat;
+	margin-bottom:40px;
+	margin-top:30px;
+	
+}
+#intro p{
+	padding-top:40px;
+	padding-left:30px;
+	padding-right:30px;
+	text-align:justify;
+	font-weight:bold;
+	line-height:24px;
+}
+#intro p a{
+	color:#44b8e8;
+}
+#intro p a:hover{
+	text-decoration:underline;
+}
+#logo{
+	margin-top:30px;
+	float:left;
+}
+#right{
+	float:right;
+	width:260px;
+	border:1px solid #dcdcdc;
+	margin-top:30px;
+	margin-right:25px;
+}
+#right h3{
+	height:54px;
+	line-height:50px;
+	background-image:url(Images/bg_login.png);
+	background-repeat:no-repeat;
+	padding-left:20px;
+	color:#ffffff;
+	font-size:18px;
+	font-weight:bold;
+}
+#right form{
+	margin-top:25px;
+}
+#right form p{
+	color:#333333;
+	font-weight:bold;
+	margin-left:15px;
+	margin-bottom:5px;
+}
+#right form .text_field{
+	width:228px;
+	margin-bottom:15px;
+	margin-left:15px;
+}
+#right form #acc{
+	width:230px;
+	line-height:27px;
+	margin-left:15px;
+	margin-bottom:15px;
+}
+#right form #checkbox{
+	margin-left:15px;
+	margin-right:3px;
+	vertical-align:middle;
+}
+#right form #btn_login{
+	width:130px;
+	height:39px;
+	color:#ffffff;
+	font-weight:bold;
+	font-size:14px;
+	background-image:url(Images/login.jpg);
+	background-repeat:no-repeat;
+	border:none;
+	margin-left:62px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+#right a{
+	font-weight:bold;
+	color:#999999;
+	margin-left:75px;
+	margin-bottom:20px;
+	display:block;
+}
+#right a:hover{
+	text-decoration:underline;
+}
+#shadow{
+	margin-top:0px;
+	height:21px;
+}
+#copy_right{
+	margin-left:460px;
+	margin-top:10px;
+	font-size:11px;
+	color:#afb2b5;
+}

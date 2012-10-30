@@ -1,0 +1,36 @@
+/** Mr.t **/
+@font-face {
+	font-family: 'VQwigley';
+	src: url('fonts/VQwigley.eot');
+	src: local('☺'), url('fonts/VQwigley.woff') format('woff'), url('fonts/VQwigley.eot?#iefix') format('embedded-opentype'), url('fonts/VQwigley.ttf') format('truetype'), url('fonts/VQwigley.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UVNBaiSau';
+	src: url('fonts/UVNBaiSau.eot');
+	src: local('☺'), url('fonts/UVNBaiSau.woff') format('woff'), url('fonts/UVNBaiSau.ttf') format('truetype'), url('fonts/UVNBaiSau.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UVNBaiSau_N';
+	src: url('fonts/UVNBaiSau_N.eot');
+	src: local('☺'), url('fonts/UVNBaiSau_N.woff') format('woff'), url('fonts/UVNBaiSau_N.ttf') format('truetype'), url('fonts/UVNBaiSau_N.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UVNBaiSau_Nh';
+	src: url('fonts/UVNBaiSau_Nh.eot');
+	src: local('☺'), url('fonts/UVNBaiSau_Nh.woff') format('woff'), url('fonts/UVNBaiSau_Nh.ttf') format('truetype'), url('fonts/UVNBaiSau_Nh.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'UVNBaiSau_R';
+	src: url('fonts/UVNBaiSau_R.eot');
+	src: local('☺'), url('fonts/UVNBaiSau_R.woff') format('woff'), url('fonts/UVNBaiSau_R.ttf') format('truetype'), url('fonts/UVNBaiSau_R.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
